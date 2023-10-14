@@ -73,7 +73,7 @@ body {
   letter-spacing: 0.02em;
   color: #ffffff;
 }
-.button-order {
+.button-ord {
   font-family: inherit;
   font-size: 16px;
   font-weight: 500;
@@ -82,8 +82,8 @@ body {
   background-color: #4d5ae5;
   color: #ffffff;
 }
-.button-order:hover,
-.button-order:focus {
+.button-ord:hover,
+.button-ord:focus {
   background-color: #404bbf;
 }
 .invisible {
