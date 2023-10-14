@@ -87,7 +87,7 @@ body {
   background-color: #404bbf;
 }
 .invisible {
-  display: none;
+  font-size: 0;
 }
 h3 {
   font-size: 20px;
